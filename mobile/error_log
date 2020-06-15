@@ -1,0 +1,370 @@
+[18-Apr-2015 06:21:09] PHP Warning:  include(../db/dbconnection.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home4/learns84/public_html/efreelearn.com/ViewUser.php on line 5
+[18-Apr-2015 06:21:09] PHP Warning:  include(../db/dbconnection.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home4/learns84/public_html/efreelearn.com/ViewUser.php on line 5
+[18-Apr-2015 06:21:09] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../db/dbconnection.php' for inclusion (include_path='.:/opt/php52/lib/php') in /home4/learns84/public_html/efreelearn.com/ViewUser.php on line 5
+[18-Apr-2015 06:21:09] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home4/learns84/public_html/efreelearn.com/ViewUser.php on line 13
+[18-Apr-2015 06:21:09] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home4/learns84/public_html/efreelearn.com/ViewUser.php on line 13
+[18-Apr-2015 06:21:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home4/learns84/public_html/efreelearn.com/ViewUser.php on line 15
+[18-Apr-2015 06:34:37] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home4/learns84/public_html/efreelearn.com/onlinetest.php on line 36
+[18-Apr-2015 06:46:58] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home4/learns84/public_html/efreelearn.com/onlinetest.php on line 36
+[19-Apr-2015 03:25:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home4/learns84/public_html/efreelearn.com/ViewUser.php on line 16
+[19-Apr-2015 22:28:42] PHP Parse error:  syntax error, unexpected '.' in /home4/learns84/public_html/efreelearn.com/test-detail.php on line 49
+[19-Apr-2015 23:33:20] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home4/learns84/public_html/efreelearn.com/test-detail.php on line 26
+[20-Apr-2015 00:33:37] PHP Parse error:  syntax error, unexpected T_WHILE in /home4/learns84/public_html/efreelearn.com/test-detail.php on line 48
+[20-Apr-2015 00:34:28] PHP Parse error:  syntax error, unexpected T_WHILE in /home4/learns84/public_html/efreelearn.com/test-detail.php on line 48
+[20-Apr-2015 00:34:31] PHP Parse error:  syntax error, unexpected T_WHILE in /home4/learns84/public_html/efreelearn.com/test-detail.php on line 48
+[20-Apr-2015 00:34:32] PHP Parse error:  syntax error, unexpected T_WHILE in /home4/learns84/public_html/efreelearn.com/test-detail.php on line 48
+[20-Apr-2015 00:34:33] PHP Parse error:  syntax error, unexpected T_WHILE in /home4/learns84/public_html/efreelearn.com/test-detail.php on line 48
+[20-Apr-2015 00:34:34] PHP Parse error:  syntax error, unexpected T_WHILE in /home4/learns84/public_html/efreelearn.com/test-detail.php on line 48
+[20-Apr-2015 00:34:34] PHP Parse error:  syntax error, unexpected T_WHILE in /home4/learns84/public_html/efreelearn.com/test-detail.php on line 48
+[20-Apr-2015 00:39:24] PHP Parse error:  syntax error, unexpected T_STRING in /home4/learns84/public_html/efreelearn.com/test-detail.php on line 50
+[20-Apr-2015 00:52:32] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home4/learns84/public_html/efreelearn.com/test-detail.php on line 57
+[20-Apr-2015 01:34:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home4/learns84/public_html/efreelearn.com/test-detail.php on line 35
+[20-Apr-2015 10:00:04] PHP Parse error:  syntax error, unexpected '<' in /home4/learns84/public_html/efreelearn.com/test-detail.php on line 71
+[20-Apr-2015 23:43:58] PHP Parse error:  syntax error, unexpected T_FOREACH, expecting ',' or ';' in /home4/learns84/public_html/efreelearn.com/test-result.php on line 4
+[20-Apr-2015 23:44:19] PHP Parse error:  syntax error, unexpected T_FOREACH, expecting ',' or ';' in /home4/learns84/public_html/efreelearn.com/test-result.php on line 4
+[20-Apr-2015 23:47:57] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home4/learns84/public_html/efreelearn.com/test-result.php on line 7
+[20-Apr-2015 23:57:29] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 11
+[22-Apr-2015 00:06:53] PHP Parse error:  syntax error, unexpected $end in /home4/learns84/public_html/efreelearn.com/test-result.php on line 35
+[22-Apr-2015 00:55:49] PHP Parse error:  syntax error, unexpected '<' in /home4/learns84/public_html/efreelearn.com/test-result.php on line 34
+[22-Apr-2015 00:56:32] PHP Parse error:  syntax error, unexpected '<' in /home4/learns84/public_html/efreelearn.com/test-result.php on line 34
+[22-Apr-2015 01:40:27] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 43
+[22-Apr-2015 01:40:27] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 43
+[22-Apr-2015 01:40:27] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 43
+[22-Apr-2015 01:40:27] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 43
+[22-Apr-2015 01:40:27] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 43
+[22-Apr-2015 01:40:27] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 43
+[22-Apr-2015 01:40:27] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 43
+[22-Apr-2015 01:40:27] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 43
+[22-Apr-2015 01:40:27] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 43
+[22-Apr-2015 01:41:24] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 43
+[22-Apr-2015 01:41:24] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 43
+[22-Apr-2015 01:41:24] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 43
+[22-Apr-2015 01:41:24] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 43
+[22-Apr-2015 01:41:24] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 43
+[22-Apr-2015 01:41:24] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 43
+[22-Apr-2015 01:41:24] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 43
+[22-Apr-2015 01:41:24] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 43
+[22-Apr-2015 01:41:24] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 43
+[22-Apr-2015 01:41:24] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 43
+[22-Apr-2015 01:41:24] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 43
+[22-Apr-2015 01:41:24] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 43
+[22-Apr-2015 04:03:30] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 43
+[22-Apr-2015 04:03:30] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 43
+[22-Apr-2015 04:03:51] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 43
+[22-Apr-2015 04:06:43] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 43
+[22-Apr-2015 04:06:43] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 43
+[23-Apr-2015 00:32:45] PHP Parse error:  syntax error, unexpected '<' in /home4/learns84/public_html/efreelearn.com/test-result.php on line 53
+[23-Apr-2015 00:33:04] PHP Parse error:  syntax error, unexpected '<' in /home4/learns84/public_html/efreelearn.com/test-result.php on line 53
+[23-Apr-2015 00:36:54] PHP Parse error:  syntax error, unexpected $end in /home4/learns84/public_html/efreelearn.com/test-result.php on line 168
+[23-Apr-2015 00:42:37] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home4/learns84/public_html/efreelearn.com/test-result.php on line 103
+[23-Apr-2015 00:47:33] PHP Parse error:  syntax error, unexpected '(', expecting T_VARIABLE or '$' in /home4/learns84/public_html/efreelearn.com/test-result.php on line 103
+[23-Apr-2015 00:47:52] PHP Parse error:  syntax error, unexpected '(', expecting T_VARIABLE or '$' in /home4/learns84/public_html/efreelearn.com/test-result.php on line 103
+[23-Apr-2015 00:48:21] PHP Parse error:  syntax error, unexpected '(', expecting T_VARIABLE or '$' in /home4/learns84/public_html/efreelearn.com/test-result.php on line 103
+[23-Apr-2015 00:48:47] PHP Parse error:  syntax error, unexpected '(', expecting T_VARIABLE or '$' in /home4/learns84/public_html/efreelearn.com/test-result.php on line 103
+[23-Apr-2015 00:49:07] PHP Parse error:  syntax error, unexpected '(', expecting T_VARIABLE or '$' in /home4/learns84/public_html/efreelearn.com/test-result.php on line 103
+[23-Apr-2015 00:49:11] PHP Parse error:  syntax error, unexpected '(', expecting T_VARIABLE or '$' in /home4/learns84/public_html/efreelearn.com/test-result.php on line 103
+[23-Apr-2015 00:49:26] PHP Parse error:  syntax error, unexpected '(', expecting T_VARIABLE or '$' in /home4/learns84/public_html/efreelearn.com/test-result.php on line 102
+[23-Apr-2015 00:49:48] PHP Parse error:  syntax error, unexpected '(', expecting T_VARIABLE or '$' in /home4/learns84/public_html/efreelearn.com/test-result.php on line 99
+[23-Apr-2015 00:50:09] PHP Parse error:  syntax error, unexpected '(', expecting T_VARIABLE or '$' in /home4/learns84/public_html/efreelearn.com/test-result.php on line 103
+[23-Apr-2015 02:43:05] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 96
+[23-Apr-2015 02:43:05] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 96
+[23-Apr-2015 02:43:05] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 96
+[23-Apr-2015 02:43:05] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 96
+[23-Apr-2015 02:43:05] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 201
+[23-Apr-2015 02:43:05] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 201
+[23-Apr-2015 02:43:05] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 201
+[23-Apr-2015 02:43:05] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 201
+[23-Apr-2015 03:33:17] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 96
+[23-Apr-2015 03:33:17] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 96
+[23-Apr-2015 03:33:17] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 96
+[23-Apr-2015 03:33:17] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 96
+[23-Apr-2015 03:33:17] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 201
+[23-Apr-2015 03:33:17] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 201
+[23-Apr-2015 03:33:17] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 201
+[23-Apr-2015 03:33:17] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 201
+[23-Apr-2015 04:50:56] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 96
+[23-Apr-2015 04:50:56] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 201
+[23-Apr-2015 14:00:31] PHP Parse error:  syntax error, unexpected T_FOR in /home4/learns84/public_html/efreelearn.com/test-result.php on line 97
+[23-Apr-2015 14:01:39] PHP Parse error:  syntax error, unexpected T_FOR in /home4/learns84/public_html/efreelearn.com/test-result.php on line 97
+[23-Apr-2015 14:02:30] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 104
+[23-Apr-2015 14:02:30] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 104
+[23-Apr-2015 14:02:30] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 104
+[23-Apr-2015 14:03:01] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 104
+[23-Apr-2015 14:03:01] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 104
+[23-Apr-2015 14:03:01] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 104
+[23-Apr-2015 14:03:01] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 104
+[23-Apr-2015 14:03:08] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 104
+[23-Apr-2015 14:03:08] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 104
+[23-Apr-2015 14:03:08] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 104
+[23-Apr-2015 14:03:32] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 104
+[23-Apr-2015 14:03:32] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 104
+[23-Apr-2015 14:03:52] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 104
+[23-Apr-2015 14:03:52] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 104
+[23-Apr-2015 14:14:06] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 104
+[23-Apr-2015 14:14:06] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 104
+[23-Apr-2015 14:14:06] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 104
+[23-Apr-2015 14:14:06] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 104
+[24-Apr-2015 09:00:05] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 104
+[24-Apr-2015 09:00:05] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 104
+[24-Apr-2015 09:00:05] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 104
+[24-Apr-2015 09:00:14] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 104
+[24-Apr-2015 09:00:14] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 104
+[24-Apr-2015 09:00:22] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 104
+[24-Apr-2015 09:00:22] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 104
+[24-Apr-2015 09:00:53] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 104
+[24-Apr-2015 09:00:53] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 104
+[24-Apr-2015 09:00:53] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 104
+[24-Apr-2015 10:01:51] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 104
+[24-Apr-2015 10:01:51] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 104
+[24-Apr-2015 10:01:51] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 104
+[24-Apr-2015 10:04:31] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 104
+[24-Apr-2015 10:04:31] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 104
+[14-May-2015 05:26:50] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 65
+[04-Jun-2015 12:59:22 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 104
+[04-Jun-2015 13:01:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 104
+[04-Jun-2015 13:42:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 70
+[04-Jun-2015 13:42:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 70
+[04-Jun-2015 13:42:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 70
+[04-Jun-2015 13:42:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 70
+[04-Jun-2015 13:42:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 115
+[04-Jun-2015 13:42:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 115
+[04-Jun-2015 13:42:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 115
+[04-Jun-2015 13:42:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 115
+[04-Jun-2015 13:44:44 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 70
+[04-Jun-2015 13:44:44 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 70
+[04-Jun-2015 13:44:44 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 115
+[04-Jun-2015 13:44:44 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 115
+[04-Jun-2015 13:44:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 70
+[04-Jun-2015 13:44:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 70
+[04-Jun-2015 13:44:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 115
+[04-Jun-2015 13:44:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 115
+[04-Jun-2015 13:55:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 70
+[04-Jun-2015 13:55:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 70
+[04-Jun-2015 13:55:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 115
+[04-Jun-2015 13:55:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 115
+[04-Jun-2015 13:55:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 70
+[04-Jun-2015 13:55:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 115
+[04-Jun-2015 13:57:18 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 70
+[04-Jun-2015 13:57:18 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 70
+[04-Jun-2015 13:57:18 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 70
+[04-Jun-2015 13:57:18 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 70
+[04-Jun-2015 13:57:18 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 115
+[04-Jun-2015 13:57:18 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 115
+[04-Jun-2015 13:57:18 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 115
+[04-Jun-2015 13:57:18 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 115
+[04-Jun-2015 14:00:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 70
+[04-Jun-2015 14:00:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 70
+[04-Jun-2015 14:00:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 70
+[04-Jun-2015 14:00:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 70
+[04-Jun-2015 14:00:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 70
+[04-Jun-2015 14:00:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 115
+[04-Jun-2015 14:00:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 115
+[04-Jun-2015 14:00:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 115
+[04-Jun-2015 14:00:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 115
+[04-Jun-2015 14:00:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 115
+[04-Jun-2015 14:00:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 70
+[04-Jun-2015 14:00:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 70
+[04-Jun-2015 14:00:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 70
+[04-Jun-2015 14:00:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 70
+[04-Jun-2015 14:00:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 70
+[04-Jun-2015 14:00:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 115
+[04-Jun-2015 14:00:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 115
+[04-Jun-2015 14:00:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 115
+[04-Jun-2015 14:00:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 115
+[04-Jun-2015 14:00:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 115
+[04-Jun-2015 14:01:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 115
+[04-Jun-2015 14:01:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 115
+[04-Jun-2015 14:01:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 115
+[04-Jun-2015 14:01:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 115
+[04-Jun-2015 14:01:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 115
+[04-Jun-2015 14:03:42 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 115
+[04-Jun-2015 14:03:42 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 115
+[04-Jun-2015 14:03:42 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 115
+[04-Jun-2015 14:03:42 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 115
+[04-Jun-2015 14:03:42 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 115
+[04-Jun-2015 14:04:46 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 115
+[04-Jun-2015 14:04:46 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 115
+[04-Jun-2015 14:04:46 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 115
+[04-Jun-2015 14:04:46 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 115
+[04-Jun-2015 14:04:46 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 115
+[04-Jun-2015 14:05:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[04-Jun-2015 14:05:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[04-Jun-2015 14:05:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[04-Jun-2015 14:05:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[04-Jun-2015 14:05:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[04-Jun-2015 14:06:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[04-Jun-2015 14:06:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[04-Jun-2015 14:06:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[04-Jun-2015 14:06:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[04-Jun-2015 14:06:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[04-Jun-2015 14:07:30 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[04-Jun-2015 14:07:30 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[04-Jun-2015 14:07:30 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[04-Jun-2015 14:07:30 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[04-Jun-2015 14:07:30 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[04-Jun-2015 14:10:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[04-Jun-2015 14:10:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[04-Jun-2015 14:10:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[04-Jun-2015 14:10:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[04-Jun-2015 14:10:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[04-Jun-2015 14:11:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[04-Jun-2015 14:11:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[04-Jun-2015 14:11:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[04-Jun-2015 14:11:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[04-Jun-2015 14:11:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[04-Jun-2015 14:14:04 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[04-Jun-2015 14:14:04 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[04-Jun-2015 14:14:04 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[04-Jun-2015 14:14:04 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[04-Jun-2015 14:14:04 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[04-Jun-2015 14:15:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[04-Jun-2015 14:15:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[04-Jun-2015 14:15:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[04-Jun-2015 14:15:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[04-Jun-2015 14:15:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[04-Jun-2015 14:17:01 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[04-Jun-2015 14:17:01 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[04-Jun-2015 14:17:01 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[04-Jun-2015 14:17:01 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[04-Jun-2015 14:17:01 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[06-Jun-2015 07:21:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 65
+[06-Jun-2015 07:21:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 80
+[06-Jun-2015 07:40:50 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[06-Jun-2015 07:40:50 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[06-Jun-2015 07:40:50 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[06-Jun-2015 07:40:50 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[06-Jun-2015 07:40:50 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[06-Jun-2015 07:40:50 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[06-Jun-2015 07:40:50 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[06-Jun-2015 07:40:50 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[06-Jun-2015 08:25:15 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[06-Jun-2015 08:25:15 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[06-Jun-2015 08:25:15 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[06-Jun-2015 08:25:15 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[06-Jun-2015 08:25:15 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[06-Jun-2015 08:25:15 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[06-Jun-2015 08:25:15 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[06-Jun-2015 08:25:15 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 119
+[06-Jun-2015 08:35:42 America/Chicago] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home4/learns84/public_html/efreelearn.com/test-result.php on line 73
+[06-Jun-2015 08:36:09 America/Chicago] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home4/learns84/public_html/efreelearn.com/test-result.php on line 73
+[06-Jun-2015 08:36:12 America/Chicago] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home4/learns84/public_html/efreelearn.com/test-result.php on line 73
+[06-Jun-2015 08:36:38 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 65
+[06-Jun-2015 08:36:38 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 82
+[06-Jun-2015 08:36:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 121
+[06-Jun-2015 08:36:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 121
+[06-Jun-2015 08:36:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 121
+[06-Jun-2015 08:36:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 121
+[06-Jun-2015 08:36:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 121
+[06-Jun-2015 08:36:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 121
+[06-Jun-2015 08:36:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 121
+[06-Jun-2015 08:36:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 121
+[06-Jun-2015 08:38:42 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 08:38:42 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 08:38:42 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 08:38:42 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 08:38:42 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 08:38:42 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 08:38:42 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 08:38:42 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 08:39:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 08:39:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 08:39:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 08:39:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 08:39:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 08:39:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 08:39:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 08:39:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 08:57:08 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 08:57:08 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 08:57:08 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 08:57:08 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 08:57:08 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 08:57:08 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 08:57:08 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 08:57:08 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:04:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:04:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:04:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:04:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:04:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:04:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:04:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:04:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:04:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:04:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:04:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:04:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:04:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:04:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:04:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:04:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:11:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:11:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:11:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:11:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:11:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:11:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:11:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:11:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:12:25 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:12:25 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:12:25 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:12:25 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:12:25 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:12:25 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:12:25 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:12:25 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:16:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:16:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:16:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:16:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:16:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:16:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:16:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:16:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 122
+[06-Jun-2015 09:18:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 125
+[06-Jun-2015 09:18:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 125
+[06-Jun-2015 09:18:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 125
+[06-Jun-2015 09:18:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 125
+[06-Jun-2015 09:18:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 125
+[06-Jun-2015 09:18:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 125
+[06-Jun-2015 09:18:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 125
+[06-Jun-2015 09:18:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 125
+[06-Jun-2015 09:18:46 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 125
+[06-Jun-2015 09:18:46 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 125
+[06-Jun-2015 09:18:46 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 125
+[06-Jun-2015 09:18:46 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 125
+[06-Jun-2015 09:18:46 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 125
+[06-Jun-2015 09:18:46 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 125
+[06-Jun-2015 09:18:46 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 125
+[06-Jun-2015 09:18:46 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 125
+[06-Jun-2015 09:19:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 125
+[06-Jun-2015 09:19:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 125
+[06-Jun-2015 09:19:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 125
+[06-Jun-2015 09:19:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 125
+[06-Jun-2015 09:19:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 125
+[06-Jun-2015 09:19:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 125
+[06-Jun-2015 09:19:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 125
+[06-Jun-2015 09:19:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 125
+[06-Jun-2015 09:25:51 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/learns84/public_html/efreelearn.com/test-result.php on line 87
+[06-Jun-2015 09:26:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 125
+[06-Jun-2015 09:26:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 125
+[06-Jun-2015 09:26:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 125
+[06-Jun-2015 09:26:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 125
+[06-Jun-2015 09:26:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 125
+[06-Jun-2015 09:26:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 125
+[06-Jun-2015 09:26:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 125
+[06-Jun-2015 09:26:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 125
+[06-Jun-2015 09:26:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 125
+[06-Jun-2015 09:26:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 125
+[06-Jun-2015 09:26:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 125
+[06-Jun-2015 09:26:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 125
+[06-Jun-2015 09:26:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 125
+[06-Jun-2015 09:26:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 125
+[06-Jun-2015 09:26:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 125
+[06-Jun-2015 09:26:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 125
+[06-Jun-2015 09:41:42 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home4/learns84/public_html/efreelearn.com/test-result.php on line 77
+[06-Jun-2015 12:13:55 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 65
+[06-Jun-2015 12:59:36 America/Chicago] PHP Parse error:  syntax error, unexpected '.' in /home4/learns84/public_html/efreelearn.com/test-result.php on line 99
+[06-Jun-2015 13:46:06 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home4/learns84/public_html/efreelearn.com/test-detail.php on line 79
+[09-Jun-2015 12:32:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/learns84/public_html/efreelearn.com/test-result.php on line 66
